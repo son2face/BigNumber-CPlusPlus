@@ -1,0 +1,5 @@
+﻿  BigNumber.cpp
+src\BigNumber.cpp(5): fatal error C1083: Cannot open include file: 'BigNumber.h': No such file or directory
+  main.cpp
+main.cpp(2): fatal error C1083: Cannot open include file: 'BigNumber.h': No such file or directory
+  Generating Code...

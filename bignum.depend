@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1466454130 source:d:\bignum\main.cpp
+	"BigNumber.h"
+	<stdio.h>
+	<winsock2.h>
+
+1462796159 d:\bignum\include\bignumber.h
+	<vector>
+	<string.h>
+	<ostream>
+	<iostream>
+
+1462796211 source:d:\bignum\src\bignumber.cpp
+	"BigNumber.h"
+
+1462628159 source:c:\users\mypc\downloads\main.cpp
+	<iostream>
+	"functions.h"
+
+1462628170 c:\users\mypc\downloads\functions.h
+	<iostream>
+	<windows.h>
+	"Name_use.h"
+	"trang.h"
+
+1462628297 c:\users\mypc\downloads\name_use.h
+	<iostream>
+	"trang.h"
+
+1462628161 c:\users\mypc\downloads\trang.h
+	"functions.h"
+	<cstdlib>
+	<ctime>
+	<iostream>
+	<conio.h>
+	<Windows.h>
+
+1462784106 source:d:\bignum\src\caculator.cpp
+	"caculator.h"
+
+1462785517 d:\bignum\include\caculator.h
+	"bignumber.h"
+
+1463658905 source:d:\bignum\src\date.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"Date.h"
+
+1463658928 d:\bignum\include\date.h
+	<iostream>
+	<bits/stdc++.h>
+
